@@ -8,6 +8,9 @@
 - [Inspiring Interview Articles](inspiring-interview-articles)
 - [Awesome Interview Books](awesome-interview-books)
 - [Competitive Programming](competitve-programming)
+- [Machine Learning Courses](machine-learning-courses)
+- [Classic Articles and Posts](classic-articles-and-posts)
+- [Programming Concepts](programming-concepts)
 
 ---
 
@@ -27,8 +30,31 @@
 
 ### Awesome Interview Books
 
+1. Programming Pearls
+2. Cracking the Coding Interview
+3.
+
 ---
 
 ### Competitive Programming
 
 1. [Topcoder competitive programming tutorials](https://www.topcoder.com/community/competitive-programming/tutorials/)
+
+---
+
+### Machine Learning Courses
+
+1. [Machine Learning Crash Course by Google](https://developers.google.com/machine-learning/crash-course/ml-intro)
+
+---
+
+### Classic Articles and Posts
+
+1. [A sample of brilliance](https://blog.acolyer.org/2018/01/30/a-sample-of-brilliance/)
+
+---
+
+### Programming Concepts
+
+1. [Reservoir Sampling Problem]()
+2. Dutch National Flag Coloring Problem
