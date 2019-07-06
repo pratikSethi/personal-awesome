@@ -11,6 +11,8 @@
 - [Machine Learning Courses](machine-learning-courses)
 - [Classic Articles and Posts](classic-articles-and-posts)
 - [Programming Concepts](programming-concepts)
+- [Infographs](infographs)
+- Great Courses
 
 ---
 
@@ -39,6 +41,7 @@
 ### Competitive Programming
 
 1. [Topcoder competitive programming tutorials](https://www.topcoder.com/community/competitive-programming/tutorials/)
+2. [Dynammic Programming Tutorial](https://www.topcoder.com/community/competitive-programming/tutorials/dynamic-programming-from-novice-to-advanced/)
 
 ---
 
@@ -58,3 +61,15 @@
 
 1. [Reservoir Sampling Problem]()
 2. Dutch National Flag Coloring Problem
+
+---
+
+### Infographs
+
+1. [Insight Data Engineering Ecosystem](https://blog.insightdatascience.com/the-new-data-engineering-ecosystem-trends-and-rising-stars-414a1609d4a0)
+
+---
+
+### Great Courses
+
+1. [Flask Mega-tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-xix-deployment-on-docker-containers)
