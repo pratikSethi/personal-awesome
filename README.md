@@ -7,6 +7,7 @@
 - [Git Resources](git-resources)
 - [Inspiring Interview Articles](inspiring-interview-articles)
 - [Awesome Interview Books](awesome-interview-books)
+- [Competitive Programming](competitve-programming)
 
 ---
 
@@ -25,3 +26,9 @@
 ---
 
 ### Awesome Interview Books
+
+---
+
+### Competitive Programming
+
+1. [Topcoder competitive programming tutorials](https://www.topcoder.com/community/competitive-programming/tutorials/)
